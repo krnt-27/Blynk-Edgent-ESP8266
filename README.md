@@ -1,1 +1,1 @@
-### Coba menggunakan Blynk-Edgent untuk koneksi dengan platform Blynk
+#### Dokumentasi bermain dengan Blynk
